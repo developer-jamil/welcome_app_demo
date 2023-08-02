@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="next">পরবর্তী</string>
+    <string name="skip">এড়িয়ে যান</string>
+    <string name="dark_mood">ডার্ক মুড</string>
+    <string name="off">বন্ধ</string>
+    <string name="on">চালু</string>
+    <string name="system">সিস্টেম</string>
+    <string name="system_des">যদি সিস্টেম নির্বাচন করা হয়, হেলথ কেয়ার বিডি স্বয়ংক্রিয়ভাবে আপনার ডিভাইসের সিস্টেম সেটিংস ভিত্তিক আপনার উপস্থিতি সাজাবে।</string>
+    <string name="start">শুরু</string>
+    <string name="exit">বাহির</string>
+    <string name="welcome_health_des">স্বাস্থ \nবিষয়ক সকল \nসেবা একসাথে</string>
+
+
+</resources>

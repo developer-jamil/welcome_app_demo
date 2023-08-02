@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Welcome App Demo</string>
+
+    <string name="jamil_lab_ltd" translatable="false">Jamil Lab LTD</string>
+    <string name="select_your_language" translatable="false">Select Your Language(ভাষা) :</string>
+    <string name="bengali" translatable="false">বাংলা</string>
+    <string name="english" translatable="false">English</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="dark_mood">Dark Mood</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="system">System</string>
+    <string name="system_des">If system is selected, Health Care BD will automatically adjust your appearance based on your device\'s system settings.</string>
+    <string name="start">Start</string>
+    <string name="exit">exit</string>
+    "<string name="welcome_health_des">All health \nrelated services \nin one place</string>"
+
+</resources>

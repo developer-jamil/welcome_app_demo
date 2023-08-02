@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HealthCareBD" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!--status or title bar color change-->
+        <item name="android:statusBarColor" tools:ignore="NewApi">@color/main_color</item>
+
+        <!--Hide Default logo splash screen-->
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+
+    <style name="Theme.HealthCareBD" parent="Base.Theme.HealthCareBD" />
+
+    <!--Custom Style Start from here-->
+    <style name="welcome_setting_area">
+        <item name="android:background">@drawable/dark_white_button</item>
+    </style>
+
+    <style name="text_white_black">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_black_white">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
